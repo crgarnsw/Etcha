@@ -16,14 +16,14 @@ I have each of the two encoders hooked up to an interrupt pin and a regular digi
 **Encoder #2: Pin 3 and 5 + the button is 10.**
 
 ##Hardware
-![Encoders](http://https://github.com/crgarnsw/Etcha/blob/master/encoders.jpg?raw=true)
+![Encoders](https://raw.githubusercontent.com/crgarnsw/Etcha/master/encoders.jpg)
 
 These encoders are attached to the pins above and ground, the button input is setup as a pull-up.
 
-![Arduino](https://github.com/crgarnsw/Etcha/blob/master/arduino.jpg?raw=true)
+![Arduino](https://raw.githubusercontent.com/crgarnsw/Etcha/master/arduino.jpg)
 
 This is the arduino, it is screwed into some runners along the edge of the box top.  It was pretty lucky that it fit into the box as well as it does.  I just found a box at the dollar store, drilled holes in the lid for the encoders and used a dremel to cut out a spot for the usb connector.
 
-![Complete](http://https://github.com/crgarnsw/Etcha/blob/master/complete.jpg?raw=true)
+![Complete](https://raw.githubusercontent.com/crgarnsw/Etcha/master/complete.jpg)
 
 Here it is all closed up and looking very professional :)
