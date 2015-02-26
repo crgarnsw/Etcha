@@ -26,7 +26,6 @@ void setup() {
   Serial.begin(9600);
   pinMode(9, INPUT_PULLUP);
   pinMode(10, INPUT_PULLUP);
-//  Serial.println("TwoKnobs Encoder Test:");
 }
 
 long positionLeft  = -999;
